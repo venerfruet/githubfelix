@@ -3,7 +3,7 @@
 
 ### Correções e melhorias
 - incluído responsividade CSS utilizando Media Queries e Word Wrap;
-- tratado erro no consumo da API que foi utilizado a biblioteca axios, utilizei o catch para tratar o erro, pois quando o usuário pesquisado não existia não acontecia nada 😁.
+- tratado erro no consumo da API onde foi utilizado a biblioteca axios, utilizei o catch para tratar o erro, pois quando o usuário pesquisado não existia não acontecia nada 😁.
 - incluído evento keypress no input de pesquisa para detectar o comando [enter].
 - alterado componente repositories para o item receber o link e não o full name do repositório;
 
